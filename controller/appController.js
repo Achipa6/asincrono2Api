@@ -3,7 +3,7 @@
 const datos = [  
     {  
         nombre: 'seccionUno',
-        imgParrafo:'http://localhost:3000/parrafos/parrafoSeccionUno.png',
+        imgParrafo:'https://asincrono2-api.vercel.app/parrafos/parrafoSeccionUno.png',
         imgMovil:'http://localhost:3000/fotosmovil/secionUno.png',
         imgCard:'http://localhost:3000/fotoscard/cardUno.png',
         imgTexto:'http://localhost:3000/cardtextos/cardTextoUno.png'
