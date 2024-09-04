@@ -4,44 +4,44 @@ const datos = [
     {  
         nombre: 'seccionUno',
         imgParrafo:'https://asincrono2-api.vercel.app/parrafos/parrafoSeccionUno.png',
-        imgMovil:'http://localhost:3000/fotosmovil/secionUno.png',
-        imgCard:'http://localhost:3000/fotoscard/cardUno.png',
-        imgTexto:'http://localhost:3000/cardtextos/cardTextoUno.png'
+        imgMovil:'https://asincrono2-api.vercel.app/fotosmovil/secionUno.png',
+        imgCard:'https://asincrono2-api.vercel.app/fotoscard/cardUno.png',
+        imgTexto:'https://asincrono2-api.vercel.app/cardtextos/cardTextoUno.png'
     }
     ,
     {   
         nombre: 'seccionDos',
-        imgParrafo:'http://localhost:3000/parrafos/parrafoSeccionDos.png',
-        imgMovil:'http://localhost:3000/fotosmovil/seccionDos.png',
-        imgCard:'http://localhost:3000/fotoscard/cardDos.png',
-        imgTexto:'http://localhost:3000/cardtextos/cardTextoDos.png'
+        imgParrafo:'https://asincrono2-api.vercel.app/parrafos/parrafoSeccionDos.png',
+        imgMovil:'https://asincrono2-api.vercel.app/fotosmovil/seccionDos.png',
+        imgCard:'https://asincrono2-api.vercel.app/fotoscard/cardDos.png',
+        imgTexto:'https://asincrono2-api.vercel.app/cardtextos/cardTextoDos.png'
     },
     {
         nombre: 'seccionTres',
-        imgParrafo:'http://localhost:3000/parrafos/parrafoSeccionTres.png',
-        imgMovil:'http://localhost:3000/fotosmovil/seccionTres.png',
-        imgCard:'http://localhost:3000/fotoscard/cardTres.png',
-        imgTexto:'http://localhost:3000/cardtextos/cardTextoTres.png'
+        imgParrafo:'https://asincrono2-api.vercel.app/parrafos/parrafoSeccionTres.png',
+        imgMovil:'https://asincrono2-api.vercel.app/fotosmovil/seccionTres.png',
+        imgCard:'https://asincrono2-api.vercel.app/fotoscard/cardTres.png',
+        imgTexto:'https://asincrono2-api.vercel.app/cardtextos/cardTextoTres.png'
     }, 
     {
         nombre: 'seccionCuatro',
-        imgParrafo:'http://localhost:3000/parrafos/parrafoSeccionCuatro.png',
-        imgMovil:'http://localhost:3000/fotosmovil/seccionCuatro.png',
-        imgCard:'http://localhost:3000/fotoscard/cardCuatro.png',
-        imgTexto:'http://localhost:3000/cardtextos/cardTextoCuatro.png'
+        imgParrafo:'https://asincrono2-api.vercel.app/parrafos/parrafoSeccionCuatro.png',
+        imgMovil:'https://asincrono2-api.vercel.app/fotosmovil/seccionCuatro.png',
+        imgCard:'https://asincrono2-api.vercel.app/fotoscard/cardCuatro.png',
+        imgTexto:'https://asincrono2-api.vercel.app/cardtextos/cardTextoCuatro.png'
     },
     {
         nombre: 'seccionCinco',
-        imgParrafo:'http://localhost:3000/parrafos/parrafoSeccionCinco.png',
-        imgMovil:'http://localhost:3000/fotosmovil/seccionCinco.png',
-        imgCard:'http://localhost:3000/fotoscard/cardCinco.png',
-        imgTexto:'http://localhost:3000/cardtextos/cardTextoCinco.png'
+        imgParrafo:'https://asincrono2-api.vercel.app/parrafos/parrafoSeccionCinco.png',
+        imgMovil:'https://asincrono2-api.vercel.app/fotosmovil/seccionCinco.png',
+        imgCard:'https://asincrono2-api.vercel.app/fotoscard/cardCinco.png',
+        imgTexto:'https://asincrono2-api.vercel.app/cardtextos/cardTextoCinco.png'
     }, 
     {   
         nombre: 'seccionSeis',
-        imgCard:'http://localhost:3000/fotoscard/cardSeis.png',
-        imgTexto:'http://localhost:3000/cardtextos/cardTextoSeis.png',
-        imgFooter:'http://localhost:3000/footer/footer.png'
+        imgCard:'https://asincrono2-api.vercel.app/fotoscard/cardSeis.png',
+        imgTexto:'https://asincrono2-api.vercel.app/cardtextos/cardTextoSeis.png',
+        imgFooter:'https://asincrono2-api.vercel.app/footer/footer.png'
     }
 ]
 ;
